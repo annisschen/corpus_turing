@@ -1,3 +1,3 @@
 # corpus_turing
 
-python实现的预料获取，用的图灵机器人
+python实现的语料获取，用的图灵机器人
